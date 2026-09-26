@@ -1,0 +1,9 @@
+Game Description
+
+Individual LEDs light up randomly on matrix
+At this point user must 'catch' LED by pressing button when they appear before they disappear
+2 states: DIM and BRIGHT
+DIM light appears and user catches it in time = 1 point added to score
+BRIGHT light appears and user catches it in time = 5 points added to score AND P shape lights up on screen, pausing game momentarily
+User fails to catch light in time = game over, score records and highest score recorded displayed
+System pauses until user presses button to start a new game
